@@ -31,8 +31,8 @@ I enjoy working across the entire development spectrum — designing scalable ba
 ---
 
 ### 🌐 Connect With Me
-- 💼 [LinkedIn](https://www.linkedin.com/in/paritoshsabade/)
-- 💻 [GitHub](https://github.com/paritoshsabade/)
+- 💼 [LinkedIn]([https://www.linkedin.com/in/paritoshsabade/](https://www.linkedin.com/in/paritosh-sabade/))
+- 💻 [GitHub](https://github.com/ParitoshSabade/)
 - 📫 Email: paritosh.sabade@gmail.com  
 
 ---
