@@ -1,20 +1,40 @@
-## Hi there 👋
+# 👋 Hi, I'm Paritosh Sabade
 
+### 💻 Software Engineer | Problem Solver | Tech Enthusiast  
 
-<!--
-**ParitoshSabade/ParitoshSabade** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m a **Software Engineer** who enjoys building systems that **drive efficiency, scalability, and productivity**.  
+Passionate about **solving complex problems**, exploring clean architectures, and turning ideas into robust, maintainable software.  
 
-Here are some ideas to get you started:
+I enjoy working across the entire development spectrum — designing scalable backends, crafting intuitive interfaces, and building reliable systems — regardless of the tools or languages involved.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-![Paritosh's GitHub stats](https://github-readme-stats.vercel.app/api?username=ParitoshSabade&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=paritoshsabade&layout=compact&theme=tokyonight)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=paritoshsabade&theme=tokyonight)
+---
+
+### 🧠 What I Like to Work On
+- 🧩 **Building efficient systems** — improving API performance, streamlining data flows, and optimizing end-to-end execution  
+- ⚙️ **Designing scalable architectures** — applying caching, database optimizations, and asynchronous workflows for responsiveness and reliability  
+- ☁️ **Driving operational excellence** — integrating automation, CI/CD, and monitoring to ensure smooth, maintainable deployments  
+- 🔍 **Delivering measurable impact** — reducing processing times, improving resource utilization, and enhancing overall user experience through thoughtful engineering decisions  
+
+---
+
+### 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=paritoshsabade&show_icons=true&theme=radical" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=paritoshsabade&layout=compact&theme=radical" height="165" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=paritoshsabade&theme=radical" height="165" />
+</p>
+
+---
+
+### 🌐 Connect With Me
+- 💼 [LinkedIn](https://www.linkedin.com/in/paritoshsabade/)
+- 💻 [GitHub](https://github.com/paritoshsabade/)
+- 📫 Email: paritosh.sabade@gmail.com  
+
+---
+
+⭐ _“Building software that simplifies life and amplifies impact.”_
