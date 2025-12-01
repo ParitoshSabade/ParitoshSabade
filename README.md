@@ -5,7 +5,7 @@
 I’m a **Software Engineer** who enjoys building systems that **drive efficiency, scalability, and productivity**.  
 Passionate about **solving complex problems**, exploring clean architectures, and turning ideas into robust, maintainable software.  
 
-I enjoy working across the entire development spectrum — designing scalable backends, crafting intuitive interfaces, and building reliable systems, regardless of the tools or languages involved.
+I enjoy working across the entire development spectrum, designing scalable backends, crafting intuitive interfaces, and building reliable systems, regardless of the tools or languages involved.
 
 ---
 
