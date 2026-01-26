@@ -15,22 +15,11 @@ I enjoy working across the entire development spectrum, designing scalable backe
 - ☁️ **Driving operational excellence** : Integrating automation, CI/CD, and monitoring to ensure smooth, maintainable deployments  
 - 🔍 **Delivering measurable impact** : Reducing processing times, improving resource utilization, and enhancing overall user experience through thoughtful engineering decisions  
 
----
-
-### 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=paritoshsabade&show_icons=true&theme=radical" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=paritoshsabade&layout=compact&theme=radical" height="165" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=paritoshsabade&theme=radical" height="165" />
-</p>
 
 ---
 
 ### 🌐 Connect With Me
+-<a target="_blank" href="https://icons8.com/icon/Meg71w7epZVz/portfolio">Portfolio</a> icon by <a target="_blank" href="https://icons8.com">Icons8</a>(https://www.paritoshsabade.com/)
 - 💼 [LinkedIn](https://www.linkedin.com/in/paritosh-sabade/)
 - 💻 [GitHub](https://github.com/ParitoshSabade/)
 - 📫 Email: paritosh.sabade@gmail.com  
