@@ -19,7 +19,7 @@ I enjoy working across the entire development spectrum, designing scalable backe
 ---
 
 ### 🌐 Connect With Me
-- [<img src="https://icons8.com/icon/XhDBVc7IBFl9/resume-website" width="20"/> Portfolio Website](https://www.paritoshsabade.com/)
+- [<img src="https://img.icons8.com/?size=100&id=XhDBVc7IBFl9&format=png&color=000000" width="20"/> Portfolio Website](https://www.paritoshsabade.com/)
 - 💼 [LinkedIn](https://www.linkedin.com/in/paritosh-sabade/)
 - 💻 [GitHub](https://github.com/ParitoshSabade/)
 - 📫 Email: paritosh.sabade@gmail.com  
